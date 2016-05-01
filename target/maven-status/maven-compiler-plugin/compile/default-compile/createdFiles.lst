@@ -1,0 +1,17 @@
+com\weatherapp\service\WeatherServiceInterface.class
+com\weatherapp\utilities\DateTimeUtil.class
+com\weatherapp\service\remote\model\Main.class
+com\weatherapp\service\remote\model\Sys.class
+com\weatherapp\service\remote\RemoteWeatherServiceInterface.class
+com\weatherapp\service\WeatherServiceImpl.class
+com\weatherapp\service\remote\OpenWeatherServiceImpl.class
+com\weatherapp\controller\MainApplicationController.class
+com\weatherapp\service\remote\model\Weather.class
+com\weatherapp\service\remote\model\OpenWeatherServiceData.class
+com\weatherapp\service\remote\model\Wind.class
+com\weatherapp\controller\WeatherDataRestController.class
+com\weatherapp\utilities\UnitUtil.class
+com\weatherapp\service\remote\model\Rain.class
+com\weatherapp\service\remote\model\Coord.class
+com\weatherapp\service\remote\model\Clouds.class
+com\weatherapp\model\WeatherData.class
