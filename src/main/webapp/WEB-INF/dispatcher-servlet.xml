@@ -25,6 +25,7 @@
 	<util:map id="citiesMap">
 		<entry key="2000" value="Sydney" />
 		<entry key="3000" value="Melbourne" />
+		<entry key="2500" value="Wollongong" />
 	</util:map>
 
 	<util:map id="temperatureUnits">
